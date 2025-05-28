@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://esecarisma.gov.co/esecarisma/sitemap.xml
